@@ -1,0 +1,16 @@
+{
+  "name": "com.arrible.core",
+  "version": "1.0.0",
+  "displayName": "Arrible Core",
+  "description": "To create local notifications on mobile devices.",
+  "unity": "2018.3",
+  "keywords": [
+    "notifications",
+    "mobile"
+  ],
+  "author": {
+    "name": "Arrible",
+    "email": "arribledev@gmail.com"
+  },
+  "dependencies": {}
+}
