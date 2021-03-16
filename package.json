@@ -1,5 +1,5 @@
 {
-  "name": "com.arrible.core",
+  "name": "com.npmjs.arrible.core",
   "version": "1.0.0",
   "displayName": "Arrible Core",
   "description": "Different buns.",
@@ -8,6 +8,13 @@
     "Singleton",
     "Coroutine Manager"
   ],
+  "bugs": {
+    "url": "https://github.com/IVProject/com.arrible.core/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:IVProject/com.arrible.core.git"
+  },
   "author": {
     "name": "Arrible",
     "email": "arribledev@gmail.com"
