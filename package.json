@@ -1,6 +1,6 @@
 {
-  "name": "com.npmjs.arrible.core",
-  "version": "1.0.0",
+  "name": "com.arrible.core",
+  "version": "1.0.1",
   "displayName": "Arrible Core",
   "description": "Different buns.",
   "unity": "2018.3",
