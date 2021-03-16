@@ -2,15 +2,14 @@
   "name": "com.arrible.core",
   "version": "1.0.0",
   "displayName": "Arrible Core",
-  "description": "To create local notifications on mobile devices.",
+  "description": "Different buns.",
   "unity": "2018.3",
   "keywords": [
-    "notifications",
-    "mobile"
+    "Singleton",
+    "Coroutine Manager"
   ],
   "author": {
     "name": "Arrible",
     "email": "arribledev@gmail.com"
-  },
-  "dependencies": {}
+  }
 }
