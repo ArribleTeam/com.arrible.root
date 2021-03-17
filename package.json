@@ -9,11 +9,11 @@
     "Coroutine Manager"
   ],
   "bugs": {
-    "url": "https://github.com/IVProject/com.arrible.core/issues"
+    "url": "https://github.com/ArribleTeam/com.arrible.root/issues"
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com:IVProject/com.arrible.core.git"
+    "url": "ssh://git@github.com:ArribleTeam/com.arrible.root.git"
   },
   "author": {
     "name": "Arrible",
