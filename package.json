@@ -1,7 +1,7 @@
 {
-  "name": "com.arrible.base",
+  "name": "com.arrible.root",
   "version": "1.0.0",
-  "displayName": "Arrible Base",
+  "displayName": "Arrible Root",
   "description": "Different buns.",
   "unity": "2018.3",
   "keywords": [
